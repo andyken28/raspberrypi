@@ -1,0 +1,5 @@
+#!/bin/sh -e
+
+iwconfig wlan0 power off
+
+exit 0
